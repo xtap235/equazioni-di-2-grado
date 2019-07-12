@@ -2,9 +2,9 @@
 Risoluzione delle equazioni di secondo grado in modo veloce.
 
 Inserire a, b, c dell'equazione (es. x² + 5x + 5)
-a = (x²=1)
-b = 5
-c = 5
+(a = (x²=1))
+(b = 5)
+(c = 5)
 
 dopodichè calcolerà automaticamente delta e x1,x2
 
