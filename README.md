@@ -12,3 +12,6 @@ se un numero ha il meno davanti basta inserirci il meno
 (es. x² - 5x + 4 )
 allora b sarà uguale a -5;
 (b = -5)
+
+Per Python 3 users semplicemente eseguire il file.py
+Per Windows users entrare nella cartella build e fare doppio click sul file.exe
