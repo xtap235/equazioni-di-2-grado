@@ -1,6 +1,7 @@
 # equazioni-di-2-grado
 ITALIANO
 
+
 Risoluzione delle equazioni di secondo grado in modo veloce.
 
 Inserire a, b, c dell'equazione (es. x² + 5x + 5)
@@ -18,7 +19,9 @@ allora b sarà uguale a -5;
 Per Python 3 users semplicemente eseguire il file.py
 Per Windows users entrare nella cartella build e fare doppio click sul file.exe
 
+
 ENGLISH
+
 
 Solving second degree equations quickly.
 
