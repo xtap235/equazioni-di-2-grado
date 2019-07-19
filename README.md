@@ -1,5 +1,6 @@
 # equazioni-di-2-grado
 ITALIANO
+
 Risoluzione delle equazioni di secondo grado in modo veloce.
 
 Inserire a, b, c dell'equazione (es. x² + 5x + 5)
